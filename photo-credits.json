@@ -1,0 +1,71 @@
+[
+  {
+    "file": "physarum-network-macro.jpg",
+    "use": "Recommended homepage network detail",
+    "original_title": "Réseau veineux physarum polycephalum 2.jpg",
+    "species": "Physarum polycephalum",
+    "identification": "Explicit identification in photographer-provided Wikimedia Commons description; not independently taxonomically verified.",
+    "author": "Tim Tim (VD fr)",
+    "author_url": "https://commons.wikimedia.org/wiki/User:Tim_Tim_(VD_fr)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:R%C3%A9seau_veineux_physarum_polycephalum_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/R%C3%A9seau_veineux_physarum_polycephalum_2.jpg",
+    "caption_zh": "多頭絨泡黏菌（Physarum polycephalum）變形體的分枝網絡。",
+    "caption_en": "The branching plasmodial network of Physarum polycephalum.",
+    "dimensions": [
+      1944,
+      1944
+    ],
+    "bytes": 2683218,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "downloaded_file_changes": "None; original JPEG as published.",
+    "site_file": "assets/physarum-network-macro.webp",
+    "site_changes": "Resized and converted to WebP; layout crop and brightness adjustment may apply. CC BY-SA 4.0."
+  },
+  {
+    "file": "lamproderma-fruiting-bodies.jpg",
+    "use": "Fruiting body macro",
+    "original_title": "Lamproderma scintillans Slime Mold on Leaf at 8× Magnification.jpg",
+    "species": "Lamproderma scintillans",
+    "identification": "Explicit species identification by photographer on Wikimedia Commons; not independently taxonomically verified.",
+    "author": "MicrocosmicWorld",
+    "author_url": "https://commons.wikimedia.org/wiki/User:MicrocosmicWorld",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lamproderma_scintillans_Slime_Mold_on_Leaf_at_8%C3%97_Magnification.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lamproderma_scintillans_Slime_Mold_on_Leaf_at_8%C3%97_Magnification.jpg",
+    "caption_zh": "葉片上的 Lamproderma scintillans 子實體；原攝影倍率為 8×。",
+    "caption_en": "Lamproderma scintillans fruiting bodies on a leaf, photographed at 8× magnification.",
+    "dimensions": [
+      5896,
+      4416
+    ],
+    "bytes": 16290907,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "downloaded_file_changes": "None; original JPEG as published.",
+    "site_file": "assets/lamproderma-fruiting-bodies.webp",
+    "site_changes": "Resized and converted to WebP; layout crop and brightness adjustment may apply. CC BY-SA 4.0."
+  },
+  {
+    "file": "physarum-plasmodium.jpg",
+    "use": "Culture observation / educational section",
+    "original_title": "Australian physarum polycephalum.jpg",
+    "species": "Physarum polycephalum",
+    "identification": "Explicit species and Australian strain identification by photographer on Wikimedia Commons; not independently taxonomically verified.",
+    "author": "Tim Tim (VD fr)",
+    "author_url": "https://commons.wikimedia.org/wiki/User:Tim_Tim_(VD_fr)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Australian_physarum_polycephalum.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Australian_physarum_polycephalum.jpg",
+    "caption_zh": "培養皿中的多頭絨泡黏菌，黃色變形體在瓊脂表面形成網絡。",
+    "caption_en": "Physarum polycephalum forms a yellow network across agar in a Petri dish.",
+    "dimensions": [
+      4000,
+      3000
+    ],
+    "bytes": 4966005,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "downloaded_file_changes": "None; original JPEG as published.",
+    "site_file": "assets/physarum-plasmodium.webp",
+    "site_changes": "Resized and converted to WebP; layout crop and brightness adjustment may apply. CC BY-SA 4.0."
+  }
+]
